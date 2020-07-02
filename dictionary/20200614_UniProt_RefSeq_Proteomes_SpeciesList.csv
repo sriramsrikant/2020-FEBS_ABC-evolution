@@ -1,0 +1,69 @@
+Species,Common name,Comments,#proteins,Phylogenetic group,Proteome ID,BUSCO completeness,Link
+Escherichia coli,K12,Standard,"4,391",Gammaproteobacteria,UP000000625,"C:100%[S:99.9%,D:0.1%],F:0%,M:0%,n:781",https://www.uniprot.org/proteomes/UP000000625
+Haemophilus influenzae,ATCC 51907 / DSM 11121 / KW20 / Rd,Standard,"1,706",Gammaproteobacteria,UP000000579,"C:95.6%[S:94.9%,D:0.7%],F:0.7%,M:3.8%,n:452",https://www.uniprot.org/proteomes/UP000000579
+Vibrio cholerae,serotype O1 / ATCC 39315 / El Tor Inaba N16961,Standard,"3,782",Gammaproteobacteria,UP000000584,"C:98.9%[S:98.5%,D:0.4%],F:0%,M:1.1%,n:452",https://www.uniprot.org/proteomes/UP000000584
+Pseudomonas aeruginosa,PAO1 / ATCC 15692 / DSM 22644 / CIP 104116 / JCM 14847 / LMG 12228 / 1C / PRS 101,Standard,"5,564",Gammaproteobacteria,UP000002438,"C:100%[S:99.3%,D:0.7%],F:0%,M:0%,n:452",https://www.uniprot.org/proteomes/UP000002438
+Myxococcus stipitatus,DSM 14675 / JCM 12634 / Mx s8,Standard,"8,043",Proteobacteria,UP000011131,"C:92.9%[S:88.9%,D:4.1%],F:3.7%,M:3.4%,n:296",https://www.uniprot.org/proteomes/UP000011131
+Mycobacterium tuberculosis,ATCC 25618 / H37Rv,Standard,"3,993",Actinobacteria,UP000001584,"C:99.1%[S:98.9%,D:0.3%],F:0.3%,M:0.6%,n:352",https://www.uniprot.org/proteomes/UP000001584
+Streptomyces coelicolor,ATCC BAA-471 / A3(2) / M145,Outlier,"8,038",Actinobacteria,UP000001973,"C:99.7%[S:98.9%,D:0.9%],F:0.3%,M:0%,n:352",https://www.uniprot.org/proteomes/UP000001973
+Corynebacterium glutamicum,ATCC 13032 / DSM 20300 / JCM 1318 / LMG 3730 / NCIMB 10025,Standard,"3,093",Actinobacteria,UP000000582,"C:99.1%[S:99.1%,D:0%],F:0.3%,M:0.6%,n:352",https://www.uniprot.org/proteomes/UP000000582
+Thermobispora bispora,ATCC 19993 / DSM 43833 / CBS 139.67 / JCM 10125 / NBRC 14880 / R51,Standard,"3,545",Actinobacteria,UP000006640,"C:97.7%[S:96.9%,D:0.9%],F:1.4%,M:0.9%,n:352",https://www.uniprot.org/proteomes/UP000006640
+Bacillus subtilis,168,Standard,"4,260",Firmicutes,UP000001570,"C:99.6%[S:99.6%,D:0%],F:0%,M:0.4%,n:526",https://www.uniprot.org/proteomes/UP000001570
+Lactobacillus plantarum,ATCC BAA-793 / NCIMB 8826 / WCFS1,Standard,"3,087",Firmicutes,UP000000432,"C:100%[S:98.4%,D:1.6%],F:0%,M:0%,n:443",https://www.uniprot.org/proteomes/UP000000432
+Listeria monocytogenes,serovar 1/2a / ATCC BAA-679 / EGD-e,Standard,"2,844",Firmicutes,UP000000817,"C:97%[S:96.6%,D:0.4%],F:0.4%,M:2.7%,n:526",https://www.uniprot.org/proteomes/UP000000817
+Streptococcus pneumoniae,ATCC BAA-255 / R6,Standard,"2,030",Firmicutes,UP000000586,"C:100%[S:100%,D:0%],F:0%,M:0%,n:443",https://www.uniprot.org/proteomes/UP000000586
+Lactococcus lactis subsp. lactis,IL1403,Standard,"2,225",Firmicutes,UP000002196,"C:98%[S:97.5%,D:0.5%],F:0.9%,M:1.1%,n:443",https://www.uniprot.org/proteomes/UP000002196
+Enterococcus faecalis,ATCC 700802 / V583,Standard,"3,240",Firmicutes,UP000001415,"C:97.7%[S:97.1%,D:0.7%],F:0.2%,M:2%,n:443",https://www.uniprot.org/proteomes/UP000001415
+Staphylococcus aureus,NCTC 8325,Standard,"2,889",Firmicutes,UP000008816,"C:95.6%[S:95.6%,D:0%],F:3.8%,M:0.6%,n:526",https://www.uniprot.org/proteomes/UP000008816
+Bacteroides thetaiotaomicron,ATCC 29148 / DSM 2079 / NCTC 10582 / E50 / VPI-5482,Standard,"4,782",Bacteroidetes,UP000001414,"C:99.1%[S:99.1%,D:0%],F:0.7%,M:0.2%,n:443",https://www.uniprot.org/proteomes/UP000001414
+Flavobacterium psychrophilum,JIP02/86 / ATCC 49511,Standard,"2,421",Bacteroidetes,UP000006394,"C:98.9%[S:98.6%,D:0.2%],F:0.7%,M:0.5%,n:443",https://www.uniprot.org/proteomes/UP000006394
+Salinibacter ruber,DSM 13855 / M31,Standard,"2,812",Bacteroidetes,UP000008674,"C:75.8%[S:74.7%,D:1.1%],F:10.6%,M:13.5%,n:443",https://www.uniprot.org/proteomes/UP000008674
+Synechocystis sp.,PCC 6803 / Kazusa,Close to Standard,"3,507",Cyanobacteria,UP000001425,"C:95.2%[S:95%,D:0.2%],F:2.6%,M:2.2%,n:834",https://www.uniprot.org/proteomes/UP000001425
+Prochlorococcus marinus,SARG / CCMP1375 / SS120,Standard,"1,881",Cyanobacteria,UP000001420,"C:94.4%[S:94%,D:0.4%],F:3.7%,M:1.9%,n:834",https://www.uniprot.org/proteomes/UP000001420
+Gloeobacter violaceus,ATCC 29082 / PCC 7421,Standard,"4,406",Cyanobacteria,UP000000557,"C:86%[S:83.7%,D:2.3%],F:6.8%,M:7.2%,n:834",https://www.uniprot.org/proteomes/UP000000557
+Saccharolobus solfataricus,ATCC 35092 / DSM 1617 / JCM 11322 / P2,Standard,"2,938",Crenarchaeota,UP000001974,,https://www.uniprot.org/proteomes/UP000001974
+Haloferax volcanii,ATCC 29605 / DSM 3757 / JCM 8879 / NBRC 14742 / NCIMB 2012 / VKM B-1768 / DS2,Standard,"3,996",Euryarchaeota,UP000008243,,https://www.uniprot.org/proteomes/UP000008243
+Dictyostelium discoideum,Slime Mold / AX4,Standard,"12,739",Amoebozoa,UP000002195,"C:96%[S:92.4%,D:3.6%],F:0.7%,M:3.3%,n:303",https://www.uniprot.org/proteomes/UP000002195
+Paramecium tetraurelia,Stock d4-2,Outlier,"39,461",Ciliophora,UP000000600,"C:13.7%[S:7.7%,D:6%],F:0%,M:86.3%,n:234",https://www.uniprot.org/proteomes/UP000000600
+Tetrahymena thermophila,SB210,Outlier,"26,971",Ciliophora,UP000009168,"C:50.9%[S:49.6%,D:1.3%],F:0%,M:49.1%,n:234",https://www.uniprot.org/proteomes/UP000009168
+Trypanosoma cruzi,CL Brener,Standard,"19,242",Euglenozoa,UP000002296,"C:73.6%[S:28.1%,D:45.5%],F:5.6%,M:20.8%,n:303",https://www.uniprot.org/proteomes/UP000002296
+Chlamydomonas reinhardtii,CC-503,Close to Standard,"17,614",Chlorophyta,UP000006906,"C:96%[S:90.1%,D:5.9%],F:2.3%,M:1.7%,n:303",https://www.uniprot.org/proteomes/UP000006906
+Volvox carteri f. nagariensis,f. Nagariensis / Eve,Standard,"14,333",Chlorophyta,UP000001058,"C:90.4%[S:88.8%,D:1.7%],F:6.6%,M:3%,n:303",https://www.uniprot.org/proteomes/UP000001058
+Chlorella variabilis,Green alga / NC64A,Standard,"9,831",Chlorophyta,UP000008141,"C:85.5%[S:83.2%,D:2.3%],F:6.3%,M:8.3%,n:303",https://www.uniprot.org/proteomes/UP000008141
+Ectocarpus siliculosus,Brown alga / Ec32 / CCAP1310/4,Close to Standard,"16,334",Ochrophyta,UP000002630,"C:44.9%[S:44.9%,D:0%],F:1.3%,M:53.8%,n:234",https://www.uniprot.org/proteomes/UP000002630
+Porphyridium purpureum,Red alga,Standard,"9,673",Rhodophyta,UP000324585,"C:91.7%[S:86.1%,D:5.6%],F:2.6%,M:5.6%,n:303",https://www.uniprot.org/proteomes/UP000324585
+Physcomitrella patens subsp. patens,Moss / cv. Gransden 2004,Outlier,"30,857",Bryophyta; Bryopsida,UP000006727,"C:67.8%[S:52%,D:15.8%],F:3.3%,M:28.9%,n:1440",https://www.uniprot.org/proteomes/UP000006727
+Selaginella moellendorffii,Spikemoss,Outlier,"33,119",Tracheophytes; Lycopodiopsida,UP000001514,"C:62.9%[S:8.6%,D:54.3%],F:5.3%,M:31.8%,n:1440",https://www.uniprot.org/proteomes/UP000001514
+Picea glauca,White spruce,Outlier,"6,155",Tracheophytes; Spermatophyta; Gymnosperms,UP000242691,"C:0%[S:0%,D:0%],F:0%,M:100%,n:1440",https://www.uniprot.org/proteomes/UP000242691
+Arabidopsis thaliana,Thale cress / cv. Columbia,Outlier,"27,463",Tracheophytes; Spermatophyta; Angiosperms; Eudicots,UP000006548,"C:99.6%[S:59.1%,D:40.5%],F:0.2%,M:0.2%,n:1440",https://www.uniprot.org/proteomes/UP000006548
+Triticum aestivum,Wheat / cv. Chinese Spring,Outlier,"105,061",Tracheophytes; Spermatophyta; Angiosperms; Monocots,UP000019116,"C:99.4%[S:1.4%,D:98%],F:0.1%,M:0.5%,n:1440",https://www.uniprot.org/proteomes/UP000019116
+Oryza sativa subsp. japonica,Rice / cv. Nipponbare,Standard,"43,672",Tracheophytes; Spermatophyta; Angiosperms; Monocots,UP000059680,"C:87%[S:80.8%,D:6.2%],F:6.1%,M:6.9%,n:1440",https://www.uniprot.org/proteomes/UP000059680
+Saccharomyces cerevisiae,ATCC 204508 / S288c,Standard,"6,049",Ascomycota,UP000002311,"C:98.9%[S:98.3%,D:0.6%],F:1.1%,M:0%,n:1711",https://www.uniprot.org/proteomes/UP000002311
+Neurospora crassa,ATCC 24698 / 74-OR23-1A / CBS 708.71 / DSM 1257 / FGSC 987,Standard,"9,759",Ascomycota,UP000001805,"C:99%[S:88.6%,D:10.4%],F:0.8%,M:0.2%,n:3725",https://www.uniprot.org/proteomes/UP000001805
+Cryptococcus neoformans var. neoformans serotype D,JEC21 / ATCC MYA-565,Standard,"6,604",Basidiomycota,UP000002149,"C:98.9%[S:96.2%,D:2.7%],F:1%,M:0.1%,n:1335",https://www.uniprot.org/proteomes/UP000002149
+Ustilago maydis,521 / FGSC 9021,Standard,"6,788",Basidiomycota,UP000000561,"C:99.3%[S:99%,D:0.3%],F:0.6%,M:0.1%,n:1335",https://www.uniprot.org/proteomes/UP000000561
+Ciona savignyi,Pacific transparent sea squirt,Close to standard,"11,592",Tunicata,UP000007875,"C:74.8%[S:57.9%,D:17%],F:5.5%,M:19.6%,n:978",https://www.uniprot.org/proteomes/UP000007875
+Nematostella vectensis,Starlet sea anemone / CH2 X CH6,Outlier,"24,428",Cnidaria,UP000001593,"C:93.8%[S:90.8%,D:3%],F:3.1%,M:3.2%,n:978",https://www.uniprot.org/proteomes/UP000001593
+Caenorhabditis elegans,Bristol N2,Standard,"19,867",Nematoda,UP000001940,"C:99.6%[S:73.4%,D:26.2%],F:0.3%,M:0.1%,n:982",https://www.uniprot.org/proteomes/UP000001940
+Pomacea canaliculata,Golden apple snail,Standard,"21,377",Mollusca,UP000245119,"C:83.1%[S:81.4%,D:1.7%],F:5.2%,M:11.7%,n:978",https://www.uniprot.org/proteomes/UP000245119
+Octopus bimaculoides,California two-spotted octopus,Close to standard,"32,794",Mollusca,UP000053454,"C:92.6%[S:80.7%,D:12%],F:5.4%,M:1.9%,n:978",https://www.uniprot.org/proteomes/UP000053454
+Drosophila melanogaster,Fruit Fly / Berkeley,Outlier,"13,790",Arthropoda; Hexapoda; Insecta,UP000000803,"C:99.3%[S:38.2%,D:61.1%],F:0.4%,M:0.3%,n:2799",https://www.uniprot.org/proteomes/UP000000803
+Aedes aegypti,Yellowfever mosquito / Liverpool/LVPib12,Standard,"15,757",Arthropoda; Hexapoda; Insecta,UP000008820,"C:93.9%[S:80.9%,D:13%],F:4%,M:2.1%,n:2799",https://www.uniprot.org/proteomes/UP000008820
+Bombyx mori,Silk moth / p50T,Outlier,"14,773",Arthropoda; Hexapoda; Insecta,UP000005204,"C:89.9%[S:89.4%,D:0.5%],F:6.8%,M:3.3%,n:1658",https://www.uniprot.org/proteomes/UP000005204
+Apis mellifera,Honeybee / DH4,Close to Standard,"15,321",Arthropoda; Hexapoda; Insecta,UP000005203,"C:97.2%[S:96.7%,D:0.4%],F:2.6%,M:0.2%,n:4415",https://www.uniprot.org/proteomes/UP000005203
+Camponotus floridanus,Florida carpenter ant / C129,Standard,"14,787",Arthropoda; Hexapoda; Insecta,UP000000311,"C:92.5%[S:92.2%,D:0.3%],F:5.4%,M:2.1%,n:4415",https://www.uniprot.org/proteomes/UP000000311
+Tribolium castaneum,Red flour beetle / Georgia GA2,Standard,"16,568",Arthropoda; Hexapoda; Insecta,UP000007266,"C:98.6%[S:91.5%,D:7.1%],F:1.2%,M:0.2%,n:1658",https://www.uniprot.org/proteomes/UP000007266
+Stegodyphus mimosarum,African social velvet spider,Close to Standard,"27,006",Arthropoda; Chelicerata; Arachnida,UP000054359,"C:85.9%[S:82.9%,D:3%],F:11.4%,M:2.7%,n:1066",https://www.uniprot.org/proteomes/UP000054359
+Penaeus vannamei,Whiteleg shrimp,Outlier,"25,399",Arthropoda; Crustacea,UP000283509,"C:80.2%[S:75.6%,D:4.6%],F:8.2%,M:11.6%,n:1066",https://www.uniprot.org/proteomes/UP000283509
+Callorhinchus milii,Ghost shark,Outlier,"19,408",Chordata; Chondrichthyes,UP000314986,"C:93.4%[S:40.1%,D:53.2%],F:4.2%,M:2.4%,n:2586",https://www.uniprot.org/proteomes/UP000314986
+Danio rerio,Zebrafish / Tuebingen,Close to Standard,"25,706",Chordata; Actinopterygii,UP000000437,"C:96.9%[S:47.4%,D:49.5%],F:1.6%,M:1.4%,n:4584",https://www.uniprot.org/proteomes/UP000000437
+Gallus gallus,"Chicken / 	Red jungle fowl",Outlier,"18,118",Chordata; Aves,UP000000539,"C:95.4%[S:59.6%,D:35.9%],F:2.8%,M:1.7%,n:4915",https://www.uniprot.org/proteomes/UP000000539
+Haliaeetus albicilla,White-tailed sea-eagle,Standard,"8,357",Chordata; Aves,UP000054379,"C:63.7%[S:63.1%,D:0.6%],F:4.5%,M:31.9%,n:4915",https://www.uniprot.org/proteomes/UP000054379
+Cathartes aura,Turkey vulture,Standard,"7,760",Chordata; Aves,UP000053745,"C:52%[S:51.6%,D:0.5%],F:7.4%,M:40.6%,n:4915",https://www.uniprot.org/proteomes/UP000053745
+Ophiophagus hannah,King cobra,Standard,"18,387",Chordata; Reptilia,UP000018936,"C:63.6%[S:62.9%,D:0.8%],F:15.3%,M:21.1%,n:3950",https://www.uniprot.org/proteomes/UP000018936
+Chelonia mydas,Green sea-turtle,Standard,"18,960",Chordata; Reptilia,UP000031443,"C:69.3%[S:68.3%,D:1.1%],F:17.5%,M:13.2%,n:3950",https://www.uniprot.org/proteomes/UP000031443
+Anolis carolinensis,Green anole / JBL SC #1,Standard,"18,525",Chordata; Reptilia,UP000001646,"C:92.1%[S:88.4%,D:3.7%],F:5.3%,M:2.6%,n:3950",https://www.uniprot.org/proteomes/UP000001646
+Myotis lucifugus,Little brown bat,Standard,"19,655",Chordata; Mammalia,UP000001074,"C:95.1%[S:90%,D:5.1%],F:3.5%,M:1.4%,n:6253",https://www.uniprot.org/proteomes/UP000001074
+Mus musculus,Mouse / C57BL/6J,Outlier,"21,982",Chordata; Mammalia,UP000000589,"C:99.7%[S:52%,D:47.7%],F:0.2%,M:0.1%,n:6192",https://www.uniprot.org/proteomes/UP000000589
+Physeter macrocephalus,Sperm whale,Outlier,"20,100",Chordata; Mammalia,UP000248484,"C:86.3%[S:53.7%,D:32.6%],F:0.8%,M:12.9%,n:6253",https://www.uniprot.org/proteomes/UP000248484
+Homo sapiens,Human,Outlier,"20,596",Chordata; Mammalia,UP000005640,"C:99.5%[S:38.2%,D:61.4%],F:0.2%,M:0.3%,n:6192",https://www.uniprot.org/proteomes/UP000005640

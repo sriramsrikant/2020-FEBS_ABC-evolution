@@ -1,0 +1,11 @@
+Identifier,Type,Name,Common Name,#families,#architectures,#seqs,Seed #seq,#UniProt,Rep. species,Avg. domain len,Avg. ID,Avg. coverage,HMM length,HMM ver,#structures,Link
+PF00005,Family,ABC_tran,NBD domains,23.70%,2364,676776,55,2805253,7942,148.9,0.26,0.3767,137,28,915,https://pfam.xfam.org/family/PF00005
+PF00664,Family,ABC_membrane,"B,C,D-family",95.50%,732,120687,70,384238,7753,262.7,0.14,0.4038,274,24,382,https://pfam.xfam.org/family/PF00664
+PF01061,Family,ABC2_membrane,"G-family (G2,G5,G8, O-antigen polysacch transporter)",41.90%,691,54964,221,148374,7022,205.6,0.16,0.4049,210,25,25,https://pfam.xfam.org/family/PF01061
+PF12698,Family,ABC2_membrane_3,A-family (A1),20.30%,176,26572,138,101533,6223,335.7,0.11,0.5241,345,8,5,https://pfam.xfam.org/family/PF12698
+PF19055,Family,ABC2_membrane_7,,14.40%,448,18926,41,29987,1176,114,0.27,0.1266,409,1,20,https://pfam.xfam.org/family/PF19055
+PF06422,Family,PDR_CDR,,4.50%,197,5873,446,9368,650,85.3,0.29,0.0682,92,13,0,https://pfam.xfam.org/family/PF06422
+PF00528,Family,BPD_transp_1,MalEFGK,82.30%,206,288114,81,1302696,6591,197.6,0.15,0.6538,185,23,73,http://pfam.xfam.org/family/PF00528
+PF02687,,FtsX,MacA,14.50%,69,50016,81,243333,6633,95.9,0.2,0.1962,96,22,15,http://pfam.xfam.org/family/PF02687
+PF02653,Family,BPD_transp_2,"BtuCD, branched-chain aa transporters",55.80%,64,71974,29,337046,5119,279.3,0.19,0.7987,270,17,0,http://pfam.xfam.org/family/PF02653
+PF01032,Family,FecCD,,18.00%,24,23209,102,114710,5570,307.6,0.29,0.9172,312,19,20,http://pfam.xfam.org/family/PF01032

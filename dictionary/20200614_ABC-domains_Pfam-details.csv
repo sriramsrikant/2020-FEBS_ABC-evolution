@@ -1,0 +1,28 @@
+Identifier,Type,Name,Common Name,#families,#architectures,#seqs,Seed #seq,#UniProt,Rep. species,Avg. domain len,Avg. ID,Avg. coverage,HMM length,HMM ver,#structures,Link
+PF00005,Family,ABC_tran,NBD domains,23.70%,2364,676776,55,2805253,7942,148.9,0.26,0.3767,137,28,915,https://pfam.xfam.org/family/PF00005
+PF12848,Family,ABC_tran_Xtn,,0.90%,75,24310,148,104145,7461,85.7,0.22,0.1438,85,8,6,https://pfam.xfam.org/family/PF12848
+PF09818,Family,ABC_ATPase,,0.00%,3,859,31,3086,793,417.8,0.44,0.7631,448,10,5,https://pfam.xfam.org/family/PF09818
+PF00664,Family,ABC_membrane,"B,C,D-family",95.50%,732,120687,70,384238,7753,262.7,0.14,0.4038,274,24,382,https://pfam.xfam.org/family/PF00664
+PF06472,Family,ABC_membrane_2,,4.20%,59,5264,25,15713,2075,255.1,0.26,0.4001,269,16,2,https://pfam.xfam.org/family/PF06472
+PF13748,Family,ABC_membrane_3,,0.10%,1,113,6,854,107,223.1,0.32,0.8137,237,7,0,https://pfam.xfam.org/family/PF13748
+PF05992,Family,SbmA_BacA,,0.30%,4,373,8,3844,348,297.3,0.51,0.7753,315,13,0,https://pfam.xfam.org/family/PF05992
+PF01061,Family,ABC2_membrane,"G-family (G2,G5,G8, O-antigen polysacch transporter)",41.90%,691,54964,221,148374,7022,205.6,0.16,0.4049,210,25,25,https://pfam.xfam.org/family/PF01061
+PF12679,Family,ABC2_membrane_2,,7.70%,25,10124,20,41558,3957,268.3,0.12,0.8341,288,8,0,https://pfam.xfam.org/family/PF12679
+PF12698,Family,ABC2_membrane_3,A-family (A1),20.30%,176,26572,138,101533,6223,335.7,0.11,0.5241,345,8,5,https://pfam.xfam.org/family/PF12698
+PF12730,Family,ABC2_membrane_4,,3.30%,17,4268,48,18375,1840,181.4,0.15,0.651,179,8,0,https://pfam.xfam.org/family/PF12730
+PF13346,Family,ABC2_membrane_5,,1.10%,8,1473,53,8008,888,202.2,0.15,0.8484,206,7,0,https://pfam.xfam.org/family/PF13346
+PF06182,Family,ABC2_membrane_6,,2.60%,3,3446,12,14902,1252,228.8,0.19,0.8702,229,12,0,https://pfam.xfam.org/family/PF06182
+PF19055,Family,ABC2_membrane_7,,14.40%,448,18926,41,29987,1176,114,0.27,0.1266,409,1,20,https://pfam.xfam.org/family/PF19055
+PF16962,Family,ABC_export,,0.10%,2,178,30,630,173,500,0.18,0.9565,532,6,0,https://pfam.xfam.org/family/PF16962
+PF16949,Family,ABC_tran_2,,0.20%,2,286,5,2151,273,483,0.17,0.8857,542,6,0,https://pfam.xfam.org/family/PF16949
+PF03379,Family,CcmB,,1.90%,4,2540,10,13671,2430,212.6,0.35,0.9566,214,14,0,https://pfam.xfam.org/family/PF03379
+PF10920,Family,DUF2705,,0.00%,1,34,9,281,28,202.4,0.15,0.8192,226,9,0,https://pfam.xfam.org/family/PF10920
+PF12040,Family,DUF3526,,0.50%,4,592,43,2377,265,152,0.19,0.3303,155,9,0,https://pfam.xfam.org/family/PF12040
+PF12051,Family,DUF3533,,1.40%,24,1818,26,5167,1025,318.5,0.18,0.6368,378,9,0,https://pfam.xfam.org/family/PF12051
+PF06422,Family,PDR_CDR,,4.50%,197,5873,446,9368,650,85.3,0.29,0.0682,92,13,0,https://pfam.xfam.org/family/PF06422
+PF00528,Family,BPD_transp_1,MalEFGK,82.30%,206,288114,81,1302696,6591,197.6,0.15,0.6538,185,23,73,http://pfam.xfam.org/family/PF00528
+PF02687,,FtsX,MacA,14.50%,69,50016,81,243333,6633,95.9,0.2,0.1962,96,22,15,http://pfam.xfam.org/family/PF02687
+PF03739,,LptF_LptG,,2.20%,9,7769,85,42184,3712,357.4,0.18,0.9285,354,15,24,http://pfam.xfam.org/family/PF03739
+PF02653,Family,BPD_transp_2,"BtuCD, branched-chain aa transporters",55.80%,64,71974,29,337046,5119,279.3,0.19,0.7987,270,17,0,http://pfam.xfam.org/family/PF02653
+PF01032,Family,FecCD,,18.00%,24,23209,102,114710,5570,307.6,0.29,0.9172,312,19,20,http://pfam.xfam.org/family/PF01032
+PF00950,Family,ABC-3,,7.80%,14,10041,14,47599,5154,251.5,0.27,0.8841,258,18,0,http://pfam.xfam.org/family/PF00950
