@@ -1,7 +1,7 @@
 # 2020-FEBS_ABC-evolution
 Collection of files and Jupyter lab notebooks written to extract ABC protein domains from proteomes. Performed for FEBS review.
 
-### Contained folders:
+### Content:
 1. notebooks - Folder of Jupyter lab notebooks that contain all the sequence extraction, alignment, tree construction and plotting for the FEBS review.
 2. RefSeq - Folder of proteomes (FASTA files) from UniProt to represent species across the tree of life and that are reference proteomes from the UniProt database.
 3. Pfam - Folder of seed alignments and HMM profiles of Pfam families that are contained in known ABC proteins.
